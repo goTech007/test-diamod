@@ -1,0 +1,4 @@
+Hello! This is a sample message.
+This text file can be used to test the Telegram integration script.
+You can modify this file with your own content before sending.
+
