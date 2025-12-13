@@ -2,7 +2,7 @@
 
 ## Example
 Telegram Bot Username: @diamond_xyz_bot 
-python telegram_sender.py 8571340724:AAGMQ0Hwf9ckWYZgomyABJPfaksB8bUMHZ8 8282579559 message.txt
+python telegram_sender.py chatid:token 8282579559 message.txt
 
 ## Installation
 
